@@ -22,7 +22,11 @@ It's where I write about my professional and technical experience
 
 ## Experience
 
-### Data Engineering Intern
+### Data Engineer
+**Quantexa** | London/Liverpool, United Kingdom | April 2024 - Present
+- Delivering a production-ready platform that provides a 360 degree view of patients across the UK for the NHS using Scala and Spark.
+
+### Data Engineer
 **Environmental Investigation Agency (EIA)** | London, United Kingdom | January 2024 - Present
 - Developed and implemented an automated data pipeline using Python and OpenAI API for web scraping, contextual data extraction, and SQL database ingestion for the Crime Tracker open database.
 - Integrated geospatial data into environmental investigations using GIS tools to analyze spatial patterns and relationships.
